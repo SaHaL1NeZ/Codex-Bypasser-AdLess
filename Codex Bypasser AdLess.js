@@ -12,6 +12,7 @@
 // @run-at       document-end
 // @grant        GM_xmlhttpRequest
 // @grant        GM_notification
+// @license      MIT
 // ==/UserScript==
 Promise.resolve(true)
   .then(data => {
